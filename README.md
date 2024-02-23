@@ -25,7 +25,7 @@ Welcome to the Simple Inventory Management System project! This Python-based pro
 The script can be interacted with through a series of function calls in your Python environment. Here’s a quick guide on using the core functionalities:<br />
 
 - Adding an Item:</b>
-<img src="https://imgur.com/1yZKCBG"></script>" height="80%" width="80%"/>
+<img src="//imgur.com/1yZKCBG"></script>" height="80%" width="80%"/>
 <br />
 <br />
 - Displaying the Inventory:</b>
