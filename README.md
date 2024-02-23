@@ -25,20 +25,28 @@ Welcome to the Simple Inventory Management System project! This Python-based pro
 The script can be interacted with through a series of function calls in your Python environment. Here’s a quick guide on using the core functionalities:<br />
 
 - Adding an Item:</b>
-  - Adding an Item:</b>
+<img src="https://imgur.com/1yZKCBG"></script>" height="80%" width="80%"/>
+<br />
+<br />
 - Displaying the Inventory:</b>
-  - Adding an Item:</b>
+  - <img src="https://imgur.com/4VxsH2V" height="80%" width="80%" alt=/>
+<br />
+<br />
 - Updating an Item's Quantity:</b>
-  - Adding an Item:</b>
+  - <img src="https://imgur.com/cRoY8SF" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 - Removing an Item:</b>
-  - Adding an Item:</b>
+  - <img src="https://imgur.com/1yZKCBG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Add Item: <br/>
+<img src="https://imgur.com/LyuffhJ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
@@ -64,7 +72,18 @@ Sanitization complete:  <br/>
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+ 
+<h2>Contributing</h2>
 
+- <b>Contributions to the Simple Inventory Management System are welcome! Whether it's adding new features, improving existing ones, or fixing bugs, feel free to fork the repository and submit a pull request.</b> 
+
+<h2>License</h2>
+
+- <b>This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+<br />
+<br />
+<br />
+- <b>By utilizing this simple yet effective inventory management system, managing stock levels and item descriptions becomes a breeze. Whether for personal projects, small businesses, or educational purposes, this project provides a solid foundation for inventory management tasks.<br />
 <!--
  ```diff
 - text in red
