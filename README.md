@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-Welcome to the Simple Inventory Management System project! This Python-based project is designed to help manage an inventory through a straightforward and intuitive interface. Each inventory item is stored as a dictionary containing the item's name, quantity and a brief description. These dictionaries are then collected into a master inventory list, making it easy to add, update, display, and remove items as needed.
+Hello there! Welcom to my Simple Inventory Management System project! This Python-based project is designed to help manage an inventory through a straightforward and intuitive interface. Each inventory item is stored as a dictionary containing the item's name, quantity and a brief description. These dictionaries are then collected into a master inventory list, making it easy to add, update, display, and remove items as needed.
 <br />
 
 
