@@ -1,0 +1,50 @@
+date = input("What is the date? ")
+company_name = input("What is the company name? ")
+
+print(f"Inventory for {company_name} on {date}:")
+
+# Master Inventory List
+inventory = []
+
+# Function to add an item to the inventory
+def add_item():
+    try:
+        name = input("Item Name: ")
+        quantity = int(input("Quantity: "))
+        standard_stock = int(input("Standard Stock: "))  # New input for standard stock level
+        description = input("Description: ")
+        new_item = {"name": name, "quantity": quantity, "standard_stock": standard_stock, "description": description}
+        inventory.append(new_item)
+    except ValueError:
+        print("Invalid input. Quantity and Standard Stock must be numbers.")
+
+# Function to display the inventory
+def display_inventory():
+    print("Inventory:")
+    for index, item in enumerate(inventory):
+        print("-------------------")
+        print(f"Item number: {index}")
+        print(f"Item Name: {item['name']}")
+        print(f"Item Quantity: {item['quantity']}")
+        print(f"Standard Stock: {item['standard_stock']}")
+        print(f"Description: {item['description']}")
+        print("-------------------")
+
+# Function to calculate and display order amounts for each item
+def calculate_order():
+    print("Order Recommendations:")
+    for index, item in enumerate(inventory):
+        if item['quantity'] < item['standard_stock']:
+            order_amount = item['standard_stock'] - item['quantity']
+            print(f"{item['name']} needs {order_amount} more to meet the standard stock level.")
+        else:
+            print(f"{item['name']} meets or exceeds the standard stock level.")
+
+# Modify existing functions if needed and add any new functions here, e.g., update_quantity, remove_item
+
+# Example flow of the modified program
+add_item()  # Now includes standard stock input
+add_item()  # Repeat as needed
+display_inventory()  # To see the current state
+calculate_order()  # To see order recommendations
+# Continue with update_quantity(), remove_item(), etc., as in your original flow
