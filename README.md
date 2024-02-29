@@ -61,7 +61,7 @@ The script can be interacted with through a series of function calls in your Pyt
 - <b>This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 <br />
 <br />
-- <b>By utilizing this simple yet effective inventory management system, managing stock levels and item descriptions becomes a breeze. Whether for personal projects, small businesses, or educational purposes, this project provides a solid foundation for inventory management tasks.<br />
+- <b>By utilizing this simple yet effective inventory management system, managing stock levels and item descriptions becomes a breeze. Whether for personal projects, small businesses, or educational purposes, this project provides a solid foundation for inventory management tasks. I've included an updated code that I tweaked to make ordering inventory easier!<br />
 
 
 >
